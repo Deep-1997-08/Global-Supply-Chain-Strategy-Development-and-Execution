@@ -1,7 +1,7 @@
 # Global Supply Chain Strategy Development and Execution
 
 ## Overview
-This project repository contains the strategies and implementation details of a robust global supply chain management system designed to enhance bottom-line performance by 15%. Our approach leverages innovative data analysis techniques and cross-functional collaboration to streamline operations.
+This project repository contains the strategies and implementation details of a robust global supply chain management system designed to enhance bottom-line performance by 15%. My approach leverages innovative data analysis techniques and cross-functional collaboration to streamline operations.
 
 ## Objectives
 - Optimize global supply chain processes through strategic analysis and data-driven solutions.
